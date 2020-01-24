@@ -24,6 +24,8 @@ Tower login:
 
 - 在浏览器中输入`http://192.168.0.199`(输入界面上对应的IP地址)，即可进入Unraid界面进行设置。
 
+## 注意
+最新的6.8.1版本和谐方法可以参考：https://softoroom.net/ptopic89043.html
 
 
 
